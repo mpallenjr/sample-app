@@ -1,0 +1,9 @@
+GET http://localhost:3000/hey_mike.json
+
+###
+
+GET http://localhost:3000/list_name.json
+
+###
+
+GET http://localhost:3000/weather.json
