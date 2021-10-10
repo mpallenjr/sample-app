@@ -1,2 +1,4 @@
 class ExamplePagesController < ApplicationController
+
+  
 end
